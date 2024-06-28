@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sauheb
-- 👀 I’m interested in AI and what are the possibilities.
+- 👀 I’m interested in AI and exploring what are the possibilities.
 - 🌱 I’m currently learning how to use AI for coding and bring my ideas to life.
 - 💞️ I’m looking to collaborate on basic implementation of codes.
 - 📫 You can reach me through GitHub messages.
